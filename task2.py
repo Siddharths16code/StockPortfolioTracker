@@ -1,4 +1,3 @@
-# codealpha : task 2  stock portfolio tracker 
 
 import csv
 
