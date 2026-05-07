@@ -1,8 +1,8 @@
-# CodeAlpha_StockPortfolioTracker
+# StockPortfolioTracker
 
-# CodeAlpha Stock Portfolio Tracker (Task 2)
+# Stock Portfolio Tracker 
 
-A simple CLI-based stock tracker built in Python as part of **CodeAlpha Internship Task 2**. This tool calculates the total investment value based on user-defined stock quantities and predefined stock prices.
+A simple CLI-based stock tracker built in Python . This tool calculates the total investment value based on user-defined stock quantities and predefined stock prices.
 
 ---
 
